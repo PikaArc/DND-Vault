@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Settlements/Osfelin.md",
+                "file": "Campaign/Parties/Characters/Max.md",
                 "mode": "preview",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Settlements/Osfelin.md",
+                "file": "Campaign/Parties/Characters/Max.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Settlements/Osfelin.md",
+                "file": "Campaign/Parties/Characters/Max.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Settlements/Osfelin.md"
+                "file": "Campaign/Parties/Characters/Max.md"
               }
             }
           },
@@ -200,8 +200,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8e6a600393459893",
+  "active": "76e4b54d51c8b0b4",
   "lastOpenFiles": [
+    "Campaign/Settlements/Osfelin.md",
     "cloen/z_Templates/GM Templates/Locations/Template - Settlement.md",
     "cloen/z_Templates/GM Templates/Locations/Template - Point of Interest.md",
     "cloen/z_Templates/GM Templates/Locations/Template - Geography.md",
@@ -247,7 +248,6 @@
     "cloen/z_Assets/README.md",
     "cloen/textgenerator/templates/local/Summarize.md",
     "cloen/textgenerator/templates/default/summarizeLarge.md",
-    "cloen/textgenerator/templates/default/summarize.md",
     "Untitled.canvas",
     "3. Campaign/4. Planes/Untitled.canvas",
     "z_Canvas/Untitled.canvas"

@@ -11,7 +11,6 @@ aliases:
   - Mili
   - Brieftasche
   - Kein Koffer
-  - Not Neutral Good
 ancestry: Goblin
 gender: Male
 pronouns: He/Him
