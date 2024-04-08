@@ -1,0 +1,107 @@
+{
+  "github": {
+    "branch": "v4",
+    "automaticallyMergePR": true,
+    "dryRun": {
+      "enable": false,
+      "folderName": ""
+    },
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "workflow": {
+      "commitMessage": "[PUBLISHER] Merge",
+      "name": ""
+    },
+    "verifiedRepo": true,
+    "repo": "quartz-vault-repo",
+    "user": "PikaArc",
+    "otherRepo": []
+  },
+  "upload": {
+    "behavior": "obsidian",
+    "defaultName": "content",
+    "rootFolder": "",
+    "yamlFolderKey": "",
+    "frontmatterTitle": {
+      "enable": false,
+      "key": "title"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "enable": false,
+      "excluded": []
+    },
+    "folderNote": {
+      "enable": false,
+      "rename": "index.md",
+      "addTitle": {
+        "enable": false,
+        "key": "title"
+      }
+    },
+    "metadataExtractorPath": ""
+  },
+  "conversion": {
+    "hardbreak": false,
+    "dataview": true,
+    "censorText": [],
+    "tags": {
+      "inline": false,
+      "exclude": [],
+      "fields": []
+    },
+    "links": {
+      "internal": true,
+      "unshared": true,
+      "wiki": false,
+      "slugify": "disable"
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "overrideAttachments": [],
+    "keySendFile": [],
+    "notes": false,
+    "folder": "content/images",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->",
+    "useObsidianFolder": true
+  },
+  "plugin": {
+    "shareKey": "publish",
+    "excludedFolder": [
+      "0-Scratch Notes",
+      "content",
+      "github-publisher",
+      "textgenerator",
+      "git",
+      "z_Templates",
+      "z_Escalidraw",
+      "z_Unorganized",
+      "z_Audio",
+      "z_Assets"
+    ],
+    "copyLink": {
+      "enable": false,
+      "links": "",
+      "removePart": [],
+      "transform": {
+        "toUri": true,
+        "slugify": "lower",
+        "applyRegex": []
+      },
+      "addCmd": false
+    },
+    "setFrontmatterKey": "Set",
+    "migrated": true,
+    "displayModalRepoEditing": false,
+    "noticeError": false,
+    "fileMenu": false,
+    "editorMenu": false
+  },
+  "tabsID": "plugin-settings"
+}

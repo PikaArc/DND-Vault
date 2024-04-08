@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "6b17bb35893ffb0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "278d434d5aff1024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a3592b03b5b8fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault Hub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76e4b54d51c8b0b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Districts/Osfelin/The Silverlight District.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd1b2141f5b150c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0727e49f2470fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6a600393459893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aed524c2908ff01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83ae487353016549",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8584eb11b77b526",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.50000381469727
+  },
+  "right": {
+    "id": "1446a7785c9edd06",
+    "type": "split",
+    "children": [
+      {
+        "id": "5abf8ac2bb0cb5ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9c114dfc35c640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault Hub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "176da24dd662dcec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign/Districts/Osfelin/The Silverlight District.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30293895ea4651fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign/Districts/Osfelin/The Silverlight District.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ec0d60ed5a956cb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign/Districts/Osfelin/The Silverlight District.md"
+              }
+            }
+          },
+          {
+            "id": "d4751694aba3f9f4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "32074a06c093cca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Buttons.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-tts:Text to Speech": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "76e4b54d51c8b0b4",
+  "lastOpenFiles": [
+    "index.md",
+    "DND Content/Characterizations/Beyond 1st Level.md",
+    "Campaign/Parties/Party Dashboards/The Ionic Talk.md",
+    "Campaign/Parties/Characters/Arcafang.md",
+    "Campaign/Parties/Characters/Fanlyn.md",
+    "Campaign/Parties/Characters/Ntyss.md",
+    "Campaign/Parties/Characters/Max.md",
+    "Campaign/Parties/Session Notes/Session 4.md",
+    "Campaign/Parties/Quests/The Search for Aleesia's Daughter.md",
+    "Campaign/Parties/Adventures/Sproute Village.md",
+    "Campaign/Settlements/Osfelin.md",
+    "Campaign/Settlements/Bandit Camp.md",
+    "Campaign/NPCs/Vizin Family/Erefis Vizin.md",
+    "Campaign/NPCs/Vizin Family/Salanae Vizin.md",
+    "Campaign/Points of Interest/The Vizin Palace.md",
+    "Campaign/Districts/Osfelin/The Starfall Plaza.md",
+    "Campaign/Districts/Osfelin/The Silverlight District.md",
+    "Campaign/Districts/Osfelin/The Moonlit Gardens.md",
+    "Campaign/Districts/Osfelin/The Feywood Market District.md",
+    "Campaign/Districts/Osfelin/The Enchanted Grove.md",
+    "Campaign/Deities/Titania.md",
+    "z_Assets/README.md",
+    "z_Assets/Hub/HubBackground.jpg",
+    "z_Assets/Hub/HubBackground.png",
+    "z_Assets/Misc/PlaceholderImage.png",
+    "Campaign/NPCs/Sproute Village/Allersia Enmar.md",
+    "Campaign/NPCs/Sproute Village/Laeroth.md",
+    "Campaign/NPCs/Bandit Camp/Curse.md",
+    "z_Assets/NPC/Salanae Vizin.png",
+    "z_Assets/Player Assets/Arcafang Token.png~",
+    "z_Assets/NPC/Erefis Vizin.jpg",
+    "z_Assets/Player Assets/Fanlyn Token.png",
+    "z_Assets/Player Assets/Arcafang Token.png",
+    "z_Assets/Player Assets/Ntyss Token.png",
+    "z_Assets/Player Assets/Max Token.png",
+    "Campaign/Organizations/Vizin Family.md",
+    "z_Assets/Locations/Osfelin.jpg",
+    "Campaign/Districts/Osfelin",
+    "DND Vault.zip",
+    "textgenerator/templates/local",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
+    "DND Content/Treasure",
+    "DND Content/Spells",
+    "DND Content/Races",
+    "Untitled.canvas",
+    "3. Campaign/4. Planes/Untitled.canvas",
+    "z_Canvas/Untitled.canvas"
+  ]
+}
