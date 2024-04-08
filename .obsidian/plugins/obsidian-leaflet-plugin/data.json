@@ -220,7 +220,7 @@
     },
     {
       "id": "TBD",
-      "lastAccessed": 1712591279896,
+      "lastAccessed": 1712595535809,
       "markers": [
         {
           "id": "ID_9b9a3a496a78",
@@ -242,13 +242,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Campaign/Districts/Osfelin/The Enchanted Grove.md",
-        "Campaign/Districts/Osfelin/The Feywood Market District.md",
-        "Campaign/Districts/Osfelin/The Moonlit Gardens.md",
         "Campaign/Districts/Osfelin/The Silverlight District.md",
-        "Campaign/Districts/Osfelin/The Starfall Plaza.md",
-        "Campaign/Points of Interest/The Vizin Palace.md",
-        "Campaign/Settlements/Bandit Camp.md",
         "Campaign/Settlements/Osfelin.md"
       ]
     }

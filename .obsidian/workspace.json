@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Districts/Osfelin/The Silverlight District.md",
+                "file": "Campaign/Settlements/Osfelin.md",
                 "mode": "preview",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Districts/Osfelin/The Silverlight District.md",
+                "file": "Campaign/Settlements/Osfelin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Districts/Osfelin/The Silverlight District.md",
+                "file": "Campaign/Settlements/Osfelin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Districts/Osfelin/The Silverlight District.md"
+                "file": "Campaign/Settlements/Osfelin.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   },
   "active": "76e4b54d51c8b0b4",
   "lastOpenFiles": [
+    "Campaign/Districts/Osfelin/The Silverlight District.md",
     "index.md",
     "DND Content/Characterizations/Beyond 1st Level.md",
     "Campaign/Parties/Party Dashboards/The Ionic Talk.md",
@@ -218,7 +219,6 @@
     "Campaign/NPCs/Vizin Family/Salanae Vizin.md",
     "Campaign/Points of Interest/The Vizin Palace.md",
     "Campaign/Districts/Osfelin/The Starfall Plaza.md",
-    "Campaign/Districts/Osfelin/The Silverlight District.md",
     "Campaign/Districts/Osfelin/The Moonlit Gardens.md",
     "Campaign/Districts/Osfelin/The Feywood Market District.md",
     "Campaign/Districts/Osfelin/The Enchanted Grove.md",

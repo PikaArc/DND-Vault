@@ -12,6 +12,7 @@ ruler:
   - "[[Erefis Vizin]]"
 settlementtype: Small City
 defence: Formidable
+pronounced: os-feh-lin
 ---
 
 > [!metadata|metadata]- Metadata 
