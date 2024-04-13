@@ -68,7 +68,19 @@
     },
     {
       "url": "https://www.dndbeyond.com/characters/113603858",
-      "displayName": "DNDBeyond",
+      "displayName": "DNDBeyondFanlyn",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "",
+      "displayName": "New Frame",
       "icon": "",
       "hideOnMobile": true,
       "addRibbonIcon": false,

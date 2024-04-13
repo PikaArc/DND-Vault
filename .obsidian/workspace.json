@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "278d434d5aff1024",
+        "id": "effe3e3f94ca9a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a3592b03b5b8fd",
+            "id": "4a3a53a7f3122461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Parties/Session Notes/Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8ec12768b6da530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/NPCs/Bodoh Buffin.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcd9f825ce95ada8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "76e4b54d51c8b0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Parties/Characters/Max.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,14 +132,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Parties/Characters/Max.md",
+                "file": "Campaign/Parties/Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,8 +149,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Parties/Characters/Max.md",
-                "linksCollapsed": false,
+                "file": "Campaign/Parties/Session Notes/Session 5.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Parties/Characters/Max.md"
+                "file": "Campaign/Parties/Session Notes/Session 5.md"
               }
             }
           },
@@ -175,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,54 +212,54 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "76e4b54d51c8b0b4",
+  "active": "4a3a53a7f3122461",
   "lastOpenFiles": [
-    "Campaign/Settlements/Osfelin.md",
-    "cloen/z_Templates/GM Templates/Locations/Template - Settlement.md",
-    "cloen/z_Templates/GM Templates/Locations/Template - Point of Interest.md",
-    "cloen/z_Templates/GM Templates/Locations/Template - Geography.md",
-    "cloen/z_Templates/GM Templates/Locations/Template - District.md",
-    "cloen/z_Templates/GM Templates/Locations/Template - County.md",
-    "cloen/z_Templates/GM Templates/Story Notes/Template - Session Note.md",
-    "cloen/z_Templates/GM Templates/Story Notes/Template - Service.md",
-    "cloen/z_Templates/GM Templates/Story Notes/Template - Journey Board.md",
-    "cloen/z_Templates/GM Templates/Story Notes/Template - Quest.md",
-    "cloen/z_Templates/GM Templates/Story Notes/Template - Adventure.md",
-    "cloen/z_Templates/GM Templates/Items/Template - Literature.md",
-    "cloen/z_Templates/GM Templates/Items/Template - Letter.md",
-    "cloen/z_Templates/GM Templates/Characters/Template - Player.md",
-    "cloen/z_Templates/GM Templates/Characters/Template - Party Dashboard.md",
-    "cloen/z_Templates/GM Templates/Characters/Template - Organization.md",
-    "cloen/z_Templates/GM Templates/Characters/Template - NPC.md",
-    "cloen/z_Templates/GM Templates/Characters/Template - Hierarchy.md",
-    "cloen/z_Templates/GM Templates/Characters/Template - Deity.md",
-    "cloen/z_Templates/Markdown/Insert Rollable Table/Rollable Table - Travel & Encounter.md",
+    "Campaign/NPCs/Bodoh Buffin.md",
+    "Campaign/Parties/Session Notes/Session 5.md",
+    "Campaign/Parties/Session Notes/Session 4.md",
+    "z_Unorganized/Untitled 3.md",
+    "z_Unorganized/Untitled 1.md",
+    "z_Unorganized/Untitled.md",
+    "z_Unorganized/Untitled 2.md",
+    "DND Content/Monsters/Orc.md",
+    "Campaign/NPCs/Sproute Village/Lonnie Handerson.md",
+    "Campaign/NPCs/Sproute Village/Lina Enmar.md",
+    "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
+    "Campaign/NPCs/Sproute Village/Allersia Enmar.md",
+    "Vault Hub.md",
+    "Tools/Buttons.md",
+    "Campaign/Parties/Characters/Fanlyn.md",
+    "Campaign/Parties/Adventures/The Mysteries around Sproute Village.md",
+    "Campaign/Settlements/Sproute Village.md",
+    "Campaign/Settlements/Bandit Camp.md",
+    "z_Assets/Locations/Sproute Village.png",
+    "z_Assets/Locations/Sproute Village.png.crdownload",
+    "Campaign/Parties/Session Notes/Session 2.md",
+    "z_Assets/Locations/Haus_Oben_Anfuhrer_Banditen.png",
+    "z_Assets/Locations/Haus_Anfuhrer_Banditen.png",
+    "z_Assets/Locations/Lager_Banditen.png",
+    "Campaign/Parties/Session Notes/Session 1.md",
+    "Campaign/NPCs/Kantora.md",
+    "Campaign/Parties/Session Notes/Session 3.md",
+    "Campaign/NPCs/Sproute Village/Dris.md",
+    "Campaign/Deities/Titania.md",
+    "Campaign/NPCs/Vizin Family/Erefis Vizin.md",
+    "Campaign/NPCs/Vizin Family/Salanae Vizin.md",
+    "z_Assets/Player Assets/Fanlyn Token 1.pdf",
+    "z_Assets/Player Assets/Fanlyn Token.png",
+    "z_Assets/Player Assets/Fanlyn Token 1.png",
+    "z_Assets/Locations/Bandit Camp.jpg",
+    "z_Assets/Locations/Osfelin.jpg",
     "cloen/z_Templates/GM Templates/Locations",
     "cloen/z_Templates/GM Templates/Story Notes",
     "cloen/z_Templates/GM Templates/Items",
     "cloen/z_Templates/GM Templates/Characters",
-    "cloen/z_Templates/Markdown/Obsidian Markdown Formatting.md",
     "cloen/z_Templates/Markdown/Insert Rollable Table",
-    "cloen/z_Templates/Markdown/Insert Markdown Images.md",
-    "cloen/z_Templates/Markdown/Insert Map (Leaflet).md",
     "cloen/z_Templates/GM Templates",
     "cloen/z_Templates/Markdown",
     "cloen/z_Templates",
-    "cloen/z_Audio/PlaceholderAudio.webm",
-    "cloen/z_Audio",
     "cloen/z_Assets/Templates/GM Templates/Characters/Party Dashboard/PartyDashboardBackground.png",
     "cloen/z_Assets/README/StateOfCalifornia.png",
-    "cloen/z_Assets/README/GeographyExample.png",
-    "cloen/z_Assets/README/AutomaticUpdates.png",
-    "cloen/z_Assets/Player Assets/Ntyss Token.png",
-    "cloen/z_Assets/Player Assets/Max Token.png",
-    "cloen/z_Assets/Player Assets/Fanlyn Token.png",
-    "cloen/z_Assets/Player Assets/Arcafang Token.png",
-    "cloen/z_Assets/Organizations/Seelie Court.png",
-    "cloen/z_Assets/NPC/Salanae Vizin.png",
-    "cloen/z_Assets/README.md",
-    "cloen/textgenerator/templates/local/Summarize.md",
-    "cloen/textgenerator/templates/default/summarizeLarge.md",
     "Untitled.canvas",
     "3. Campaign/4. Planes/Untitled.canvas",
     "z_Canvas/Untitled.canvas"

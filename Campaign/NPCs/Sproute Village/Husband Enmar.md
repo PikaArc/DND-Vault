@@ -8,6 +8,8 @@ party1relation: Acquaintance
 location:
   - "[[Sproute Village]]"
 condition: Healthy
+occupation:
+  - Hunter
 ---
 
 > [!metadata|metadata]- Metadata 

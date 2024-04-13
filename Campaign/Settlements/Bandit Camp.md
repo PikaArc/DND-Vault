@@ -2,7 +2,7 @@
 tags:
   - "#Location"
   - "#Settlement"
-art: z_Assets/Locations/Bandit Camp.jpg
+art: z_Assets/Locations/Lager_Banditen.png
 publish: false
 ---
 

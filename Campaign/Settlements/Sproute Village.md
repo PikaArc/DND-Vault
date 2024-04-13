@@ -2,7 +2,7 @@
 tags:
   - "#Location"
   - "#Settlement"
-art: z_Assets/Misc/PlaceholderImage.png
+art: z_Assets/Locations/Sproute Village.png
 publish: false
 ---
 > [!metadata|metadata]- Metadata 

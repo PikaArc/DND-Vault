@@ -29,9 +29,6 @@ publish: false
 >> **Miscellaneous** | `INPUT[inlineListSuggester(optionQuery("" AND !"z_Templates")):misc]` |
 
 #  `=link(this.whichparty)` `=this.file.name` "`=this.aliases`"
-## Prep
-### To-Do
-
 ### Quick References
 
 > [!column|3 no-title]
@@ -52,8 +49,9 @@ publish: false
 ### Loot, Rewards & Purchases
 
 ## Post
-### New Creations
-
 ### Date & Time
 
+## Key Points
+
 ### End of Session Notes
+

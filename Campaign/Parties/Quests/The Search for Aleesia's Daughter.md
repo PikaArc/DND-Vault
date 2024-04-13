@@ -2,7 +2,7 @@
 tags:
   - Quest
 art: z_Assets/Misc/PlaceholderImage.png
-status: ⏳
+status: ✅
 adventure: "[[Campaign/Settlements/Sproute Village]]"
 quicknote: In the [[Campaign/Settlements/Sproute Village|Sproute Village]], [[Daughter Enmar]] has vanished, leaving her mother Aleesia Enmar  distraught. Comforted by [[Fanlyn]], Aleesia shares the last place Elara was seen—a house near a mysterious object. Promising aid, [[Fanlyn]] and the players embark on a quest to find [[Daughter Enmar]] , uncovering secrets and dangers in [[Campaign/Settlements/Sproute Village|Sproute Village]] . Can they unravel the mystery and bring the missing daughter home?
 publish: true
@@ -44,7 +44,7 @@ publish: true
 ## Overview
 ### Summary
 
-In the [[Campaign/Settlements/Sproute Village|Sproute Village]], [[Daughter Enmar]] has vanished, leaving her mother Aleesia Enmar  distraught. Comforted by [[Fanlyn]], Aleesia shares the last place Elara was seen—a house near a mysterious object. Promising aid, [[Fanlyn]] and the players embark on a quest to find [[Daughter Enmar]] , uncovering secrets and dangers in [[Campaign/Settlements/Sproute Village|Sproute Village]] . Can they unravel the mystery and bring the missing daughter home?
+In the [[Campaign/Settlements/Sproute Village|Sproute Village]], [[Lina Enmar]] has vanished, leaving her mother Aleesia Enmar  distraught. Comforted by [[Fanlyn]], Aleesia shares the last place Elara was seen—a house near a mysterious object. Promising aid, [[Fanlyn]] and the players embark on a quest to find [[Lina Enmar]] , uncovering secrets and dangers in [[Campaign/Settlements/Sproute Village|Sproute Village]] . Can they unravel the mystery and bring the missing daughter home?
 
 ### Storyline
 
@@ -52,7 +52,7 @@ Craft a storyline for this quest
 
 ## Storyline
 
-In the tranquil [[Campaign/Settlements/Sproute Village|Sproute Village]], a peaceful community known for its lush gardens and friendly locals, a sudden disappearance shatters the harmony. [[Daughter Enmar]], a young and vibrant member of the village, has vanished without a trace, leaving her mother, Aleesia Enmar, in a state of despair. Comforted by [[Fanlyn]], a trusted and empathetic villager, Aleesia shares the last place she saw her daughter - a house near a mysterious object that had recently appeared at the village's edge.
+In the tranquil [[Campaign/Settlements/Sproute Village|Sproute Village]], a peaceful community known for its lush gardens and friendly locals, a sudden disappearance shatters the harmony. [[Lina Enmar]], a young and vibrant member of the village, has vanished without a trace, leaving her mother, Aleesia Enmar, in a state of despair. Comforted by [[Fanlyn]], a trusted and empathetic villager, Aleesia shares the last place she saw her daughter - a house near a mysterious object that had recently appeared at the village's edge.
 
 ## Inciting Action
 

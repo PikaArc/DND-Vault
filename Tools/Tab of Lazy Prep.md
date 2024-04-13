@@ -29,13 +29,14 @@ Current Session:
 | Example | This an example of information |
 | Example | This an example of information |
 
-| Characters | Details |
-| ---- | ---- |
+| Characters         | Details                        |
+| ------------------ | ------------------------------ |
 | [[Template - NPC]] | This an example of information |
 | [[Template - NPC]] | This an example of information |
 | [[Template - NPC]] | This an example of information |
 | [[Template - NPC]] | This an example of information |
-| [[Template - NPC]]  | This an example of information |
+| [[Template - NPC]] | This an example of information |
+| [[Laeroth]]        |                                |
 
 | Locations | Details |
 | ---- | ---- |

@@ -7,7 +7,7 @@ publish: false
 party1relation: Acquaintance
 location:
   - "[[Sproute Village]]"
-condition: Healthy
+condition: Dead
 ---
 
 > [!metadata|metadata]- Metadata 

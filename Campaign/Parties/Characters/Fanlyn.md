@@ -100,11 +100,11 @@ class:
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
 
 > [!metadata|charactersheet]- Character Sheet
-> ```custom-frames
-frame: DNDBeyond
+>>```custom-frames
+frame: DNDBeyondFanlyn
 style: height: 700px;
 >```
-
+ 
 > [!metadata|servicerequests]- Service Requests
 > ```dataview
 > TABLE join(aliases, ", ") AS Aliases, quicknote AS Notes
@@ -162,4 +162,3 @@ Fanlyn's journey begins with a seemingly routine mission into the depths of the 
 Fanlyn holds a deep reverence for the goddess [[Titania]], the queen of the [[Seelie Court]] and a symbol of beauty, grace, and wisdom in the Feywild. She seeks guidance and inspiration from [[Titania]]'s teachings, striving to embody the virtues of compassion, justice, and harmony that the goddess represents. Fanlyn often offers prayers and rituals in homage to [[Titania]], drawing strength and guidance from her divine presence as she navigates the challenges of her journey and fulfills her duties as a princess of the Vizin dynasty.
 
 ## Notes
-
