@@ -93,6 +93,8 @@ The party travelled for one hour to reach the goblin camp.
 
 ### Date & Time
 
+The party has awoken in the morning and following the current events it's in the middle of the afternoon
+
 ## Key Points
 
 - [[Bodoh Buffin]] knocked on [[Arcafang]]s door, quickly retreated to knock on [[Ntyss]]'s door after seeing [[Arcafang]] is a Wolfkind
