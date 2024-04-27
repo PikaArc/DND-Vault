@@ -12,6 +12,7 @@ aliases:
   - Fanlyn Vizin
   - Lyn
   - Little fox
+  - Silvandra Murmurram
 ancestry: Kitsune
 gender: Female
 pronouns: She/Her
