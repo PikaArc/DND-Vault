@@ -53,7 +53,7 @@
     },
     {
       "name": "Condition",
-      "declaration": "INPUT[inlineSelect(option(Null), option(Healthy), option(Hurt), option(Sick), option(Dying), option(Dead) )]"
+      "declaration": "INPUT[inlineSelect(option(Null), option(Healthy), option(Hurt), option(Sick), option(Dying), option(Dead), option(It is rewind time) )]"
     },
     {
       "name": "SettlementType",

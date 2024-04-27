@@ -4,12 +4,6 @@ tags:
   - "#NPC"
 art: z_Assets/Misc/PlaceholderImage.png
 publish: false
-occupation:
-  - Adventurer
-location:
-  - "[[Sproute Village]]"
-condition: It is rewind time
-party1relation: Like
 ---
 
 > [!metadata|metadata]- Metadata 

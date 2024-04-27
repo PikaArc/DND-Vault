@@ -5,7 +5,7 @@ tags:
 art: z_Assets/Misc/PlaceholderImage.png
 publish: false
 party1relation: Ally
-condition: Healthy
+condition: Dead
 location:
   - "[[Sproute Village]]"
 ---

@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a3a53a7f3122461",
+            "id": "a2af8539677b9c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Parties/Session Notes/Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8ec12768b6da530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/NPCs/Sproute Village/Bodoh Buffin.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcd9f825ce95ada8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault Hub.md",
+                "file": "Campaign/NPCs/Sproute Village/Laeroth.md",
                 "mode": "preview",
                 "source": false
               }
@@ -132,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Parties/Session Notes/Session 5.md",
+                "file": "Campaign/NPCs/Sproute Village/Laeroth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Parties/Session Notes/Session 5.md",
+                "file": "Campaign/NPCs/Sproute Village/Laeroth.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Parties/Session Notes/Session 5.md"
+                "file": "Campaign/NPCs/Sproute Village/Laeroth.md"
               }
             }
           },
@@ -190,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,39 +187,39 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8e6a600393459893",
+  "active": "a2af8539677b9c5f",
   "lastOpenFiles": [
-    "Campaign/NPCs/Sproute Village/Bodoh Buffin.md",
+    "Campaign/NPCs/Sproute Village/Lacross.md",
+    "Campaign/NPCs/Sproute Village/Laeroth.md",
+    "Campaign/NPCs/Sproute Village/Dris.md",
+    "Campaign/NPCs/Sproute Village/Darling.md",
+    "Campaign/NPCs/Bandit Camp/Echo.md",
+    "Campaign/NPCs/Bandit Camp/Fence.md",
+    "Campaign/NPCs/Bandit Camp/Heinrik Ragnor Le Doux IV.md",
+    "Campaign/Parties/Session Notes/Session 6.md",
+    "Campaign/Parties/Characters/Fanlyn.md",
     "Campaign/Parties/Session Notes/Session 5.md",
     "Campaign/Parties/Session Notes/Session 4.md",
+    "Tools/Buttons.md",
+    "Campaign/NPCs/Sproute Village/Anlyth Enmar.md",
+    "Campaign/NPCs/Bandit Camp/Sin.md",
+    "Campaign/Parties/Session Notes/Session 3.md",
+    "Campaign/NPCs/Bandit Camp/Soul.md",
+    "Campaign/Parties/Characters/Arcafang.md",
+    "Campaign/Parties/Session Notes/Session 2.md",
+    "Campaign/Parties/Session Notes/Session 1.md",
+    "Campaign/NPCs/Sproute Village/Bodoh Buffin.md",
     "z_Unorganized/Untitled 3.md",
     "z_Unorganized/Untitled 1.md",
     "z_Unorganized/Untitled.md",
     "z_Unorganized/Untitled 2.md",
     "DND Content/Monsters/Orc.md",
     "Campaign/NPCs/Sproute Village/Lonnie Handerson.md",
-    "Campaign/NPCs/Sproute Village/Lina Enmar.md",
-    "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
-    "Campaign/NPCs/Sproute Village/Allersia Enmar.md",
-    "Vault Hub.md",
-    "Tools/Buttons.md",
-    "Campaign/Parties/Characters/Fanlyn.md",
-    "Campaign/Parties/Adventures/The Mysteries around Sproute Village.md",
-    "Campaign/Settlements/Sproute Village.md",
-    "Campaign/Settlements/Bandit Camp.md",
     "z_Assets/Locations/Sproute Village.png",
     "z_Assets/Locations/Sproute Village.png.crdownload",
-    "Campaign/Parties/Session Notes/Session 2.md",
     "z_Assets/Locations/Haus_Oben_Anfuhrer_Banditen.png",
     "z_Assets/Locations/Haus_Anfuhrer_Banditen.png",
     "z_Assets/Locations/Lager_Banditen.png",
-    "Campaign/Parties/Session Notes/Session 1.md",
-    "Campaign/NPCs/Kantora.md",
-    "Campaign/Parties/Session Notes/Session 3.md",
-    "Campaign/NPCs/Sproute Village/Dris.md",
-    "Campaign/Deities/Titania.md",
-    "Campaign/NPCs/Vizin Family/Erefis Vizin.md",
-    "Campaign/NPCs/Vizin Family/Salanae Vizin.md",
     "z_Assets/Player Assets/Fanlyn Token 1.pdf",
     "z_Assets/Player Assets/Fanlyn Token.png",
     "z_Assets/Player Assets/Fanlyn Token 1.png",
