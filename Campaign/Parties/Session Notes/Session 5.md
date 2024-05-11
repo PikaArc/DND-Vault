@@ -18,6 +18,7 @@ locations:
 misc:
   - "[[DND Content/Monsters/Goblin.md|Goblin]]"
   - "[[DND Content/Monsters/Orc.md|Orc]]"
+sessiondate: 12-04-2024
 ---
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System

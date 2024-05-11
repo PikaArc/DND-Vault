@@ -13,6 +13,7 @@ aliases:
   - Lyn
   - Little fox
   - Silvandra Murmurram
+  - Ai Sakura
 ancestry: Kitsune
 gender: Female
 pronouns: She/Her

@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14519d0893fe7ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/NPCs/Sproute Village/Gods/Leae.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7a9edff8625bae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/NPCs/Duarte.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cc63245359a032d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/NPCs/Sproute Village/John Lancaster.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Parties/Characters/Fanlyn.md",
+                "file": "Campaign/NPCs/Sproute Village/Gods/Leae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Parties/Characters/Fanlyn.md",
+                "file": "Campaign/NPCs/Sproute Village/Gods/Leae.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Parties/Characters/Fanlyn.md"
+                "file": "Campaign/NPCs/Sproute Village/Gods/Leae.md"
               }
             }
           },
@@ -166,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,34 +225,36 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a2af8539677b9c5f",
+  "active": "14519d0893fe7ef4",
   "lastOpenFiles": [
+    "Campaign/NPCs/Sproute Village/Gods/Mae.md",
+    "Campaign/NPCs/Sproute Village/Gods/Rahnoer.md",
+    "Campaign/Parties/Session Notes/Session 6.md",
+    "Campaign/Parties/Characters/Ntyss.md",
+    "Campaign/NPCs/Sproute Village/Gods/Eae.md",
+    "Campaign/NPCs/Sproute Village/Darling.md",
+    "Campaign/Parties/Session Notes/Session 7.md",
     "Campaign/Parties/Party Dashboards/The Ionic Talk.md",
-    "Campaign/Parties/Characters/Fanlyn.md",
+    "Campaign/Parties/Session Notes/Session 4.md",
+    "Campaign/Parties/Session Notes/Session 5.md",
+    "Campaign/Parties/Characters/Arcafang.md",
     "Campaign/Parties/Characters/Max.md",
+    "Campaign/Parties/Characters/Fanlyn.md",
+    "Campaign/NPCs/Duarte.md",
+    "Tools/Buttons.md",
+    "Campaign/NPCs/Sproute Village/John Lancaster.md",
     "Campaign/NPCs/Sproute Village/Laeroth.md",
+    "z_Assets/Locations/FRtl4l7WQAAkrY5.jpg_large",
+    "z_Assets/Locations/Unconfirmed 82424.crdownload",
     "Campaign/NPCs/Sproute Village/Lacross.md",
     "Campaign/NPCs/Sproute Village/Dris.md",
-    "Campaign/NPCs/Sproute Village/Darling.md",
     "Campaign/NPCs/Bandit Camp/Echo.md",
     "Campaign/NPCs/Bandit Camp/Fence.md",
     "Campaign/NPCs/Bandit Camp/Heinrik Ragnor Le Doux IV.md",
-    "Campaign/Parties/Session Notes/Session 6.md",
-    "Campaign/Parties/Session Notes/Session 5.md",
-    "Campaign/Parties/Session Notes/Session 4.md",
-    "Tools/Buttons.md",
     "Campaign/NPCs/Sproute Village/Anlyth Enmar.md",
     "Campaign/NPCs/Bandit Camp/Sin.md",
     "Campaign/Parties/Session Notes/Session 3.md",
     "Campaign/NPCs/Bandit Camp/Soul.md",
-    "Campaign/Parties/Characters/Arcafang.md",
-    "Campaign/Parties/Session Notes/Session 2.md",
-    "Campaign/Parties/Session Notes/Session 1.md",
-    "Campaign/NPCs/Sproute Village/Bodoh Buffin.md",
-    "z_Unorganized/Untitled 3.md",
-    "z_Unorganized/Untitled 1.md",
-    "z_Unorganized/Untitled.md",
-    "z_Unorganized/Untitled 2.md",
     "z_Assets/Locations/Sproute Village.png",
     "z_Assets/Locations/Sproute Village.png.crdownload",
     "z_Assets/Locations/Haus_Oben_Anfuhrer_Banditen.png",
@@ -231,8 +271,6 @@
     "cloen/z_Templates/GM Templates/Characters",
     "cloen/z_Templates/Markdown/Insert Rollable Table",
     "cloen/z_Templates/GM Templates",
-    "cloen/z_Templates/Markdown",
-    "cloen/z_Templates",
     "cloen/z_Assets/Templates/GM Templates/Characters/Party Dashboard/PartyDashboardBackground.png",
     "cloen/z_Assets/README/StateOfCalifornia.png",
     "Untitled.canvas",

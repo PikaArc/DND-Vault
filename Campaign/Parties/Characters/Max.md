@@ -21,7 +21,7 @@ location:
   - "[[Sproute Village]]"
 whichparty:
   - "[[The Ionic Talk]]"
-condition: Healthy
+condition: Dead
 ---
 
 > [!metadata|metadata]- Metadata 

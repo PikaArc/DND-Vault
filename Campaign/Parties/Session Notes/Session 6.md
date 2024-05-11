@@ -2,6 +2,11 @@
 tags:
   - "#SessionNote"
 publish: false
+aliases:
+  - "Echoes of Eternity: Shadows and Chains"
+sessiondate: 26-04-2024
+whichparty: "[[The Ionic Talk]]"
+quicknote: "Echoes of Eternity: Shadows and Chains"
 ---
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System

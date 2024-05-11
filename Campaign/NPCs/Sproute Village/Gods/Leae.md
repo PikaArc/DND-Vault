@@ -4,6 +4,7 @@ tags:
   - "#NPC"
 art: z_Assets/Misc/PlaceholderImage.png
 publish: false
+condition: Dying
 ---
 
 > [!metadata|metadata]- Metadata 
